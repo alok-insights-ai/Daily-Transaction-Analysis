@@ -34,7 +34,7 @@ The goal of this project is to analyze daily financial transactions and identify
 - [Dataset](https://github.com/alok-insights-ai/Daily-Transaction-Analysis/blob/main/Daily%20Household%20Transactions.csv)
 - [Jupyter Notebook](https://github.com/alok-insights-ai/Daily-Transaction-Analysis/blob/main/daily_transaction.ipynb)
 
-#Sample Visualization
+# Sample Visualization
 
 - ![image](https://github.com/alok-insights-ai/Daily-Transaction-Analysis/blob/main/Screenshot%202025-11-01%20164115.png)
 - ![image](https://github.com/alok-insights-ai/Daily-Transaction-Analysis/blob/main/Screenshot%202025-11-01%20164130.png)
